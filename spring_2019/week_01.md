@@ -1,24 +1,17 @@
-## Last Week's Accomplishments
+<h2>Last Week's Accomplishments</h2>
 
-> In this section, you can write about what you accomplished in the previous week.
+<blockquote>
+  <p>Last week, I got Venue to successfully run on my computer after dealing with installation problems with mongodb. Now Mongodb, Node, Gulp, and npm all work on my computer. I also went through the mozilla tutorial on JavaScript, and I believe I have a proficient understanding to start working on the JavaScript parts of the project. I uploaded my final project from the tutorial to my repository. I also created a web application with both a front and back end using a tutorial on Angular, and I feel like this really helped me learn. I downloaded Markdown as well, and it seems to be working. </p>
+</blockquote>
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+<h2>This Week's Plan</h2>
 
-## This Week's Plan
+<blockquote>
+  <p>This week I plan to learn Express and MongoDB and potentially add them to my Angular project if applicable. I also plan to look at the bugs in Venue and pick one to work on fixing. </p>
+</blockquote>
 
-> In this section, you can write about what you have planned for next week.
+<h2>Anything Blocking?</h2>
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+<blockquote>
+  <p>Nothing is currently blocking me.</p>
+</blockquote>
