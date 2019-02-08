@@ -2,7 +2,6 @@
 
 <blockquote>
   <p>Last week, I got Venue to successfully run on my computer after dealing with installation problems with mongodb. Now Mongodb, Node, Gulp, and npm all work on my computer. I also went through the mozilla tutorial on JavaScript, and I believe I have a proficient understanding to start working on the JavaScript parts of the project. The tutorial covered the folowing topics:</p>
-</blockquote>
 
 <ul>
 <li>Introduction
@@ -35,6 +34,7 @@
  </p>
 
 <p>I downloaded Markdown as well, and it seems to be working. </p>
+</blockquote>
 
 <h2>This Week's Plan</h2>
 
