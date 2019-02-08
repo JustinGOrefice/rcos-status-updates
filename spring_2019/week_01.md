@@ -4,7 +4,8 @@
   <p>Last week, I got Venue to successfully run on my computer after dealing with installation problems with mongodb. Now Mongodb, Node, Gulp, and npm all work on my computer. I also went through the mozilla tutorial on JavaScript, and I believe I have a proficient understanding to start working on the JavaScript parts of the project. The tutorial covered the folowing topics:</p>
 </blockquote>
 
-<p>*Introduction
+<blockquote>
+*Introduction
 *Grammar and types
 *Control flow and error handling
 *Loops and iteration
@@ -19,7 +20,9 @@
 *Details of the object model
 *Using promises
 *Iterators and generators
-*Meta programming</p>
+*Meta programming
+</blockquote>
+
 
 <p>I uploaded my final project from the tutorial to my repository. I also created a web application with both a front and back end using a tutorial on Angular, and I feel like this really helped me learn. It went over the following:
 *The Hero Editor
