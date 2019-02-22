@@ -56,5 +56,5 @@
 <h2>Anything Blocking?</h2>
 
 <blockquote>
-  <p>Nothing is currently blocking me.</p>
+  <p>I am currently waiting to be assigned an issue.</p>
 </blockquote>

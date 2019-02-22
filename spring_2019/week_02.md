@@ -50,7 +50,7 @@
 <h2>This Week's Plan</h2>
 
 <blockquote>
-  <p>This week I plan on finishing the tutorials and possibly getting assigned an issue to fix   </p>
+  <p>This week I plan on finishing the tutorials and possibly getting assigned an issue to fix.   </p>
 </blockquote>
 
 <h2>Anything Blocking?</h2>
