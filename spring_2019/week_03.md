@@ -45,16 +45,18 @@
 <li>Deploying to production </li>
 </ul>
 
+<p> I uploaded the finished project to my repository.</p>
+
 </blockquote>
 
 <h2>This Week's Plan</h2>
 
 <blockquote>
-  <p>This week I plan on getting assinged an issue and working to fix it.  </p>
+  <p>This week I was given issue #511 to fix, which involves adding a filter to Venue.  </p>
 </blockquote>
 
 <h2>Anything Blocking?</h2>
 
 <blockquote>
-  <p>I am currently waiting to be assigned an issue.</p>
+  <p>Nothing is currently preventing me from working. </p>
 </blockquote>
