@@ -1,7 +1,7 @@
 <h2>Last Week's Accomplishments</h2>
 
 <blockquote>
-  <p>Last week, I started the tutorial for both Express and MongoDB. The MongoDB tutorial covered the folowing topics:</p>
+  <p>Last week, I completed tutorial for both Express and MongoDB. The MongoDB tutorial covered the folowing topics:</p>
 
 <ul>
 <li>Home </li>
@@ -50,7 +50,7 @@
 <h2>This Week's Plan</h2>
 
 <blockquote>
-  <p>This week I plan on finishing the tutorials and possibly getting assigned an issue to fix   </p>
+  <p>This week I plan on getting assinged an issue and working to fix it.  </p>
 </blockquote>
 
 <h2>Anything Blocking?</h2>
