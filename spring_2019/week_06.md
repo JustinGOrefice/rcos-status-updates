@@ -1,13 +1,13 @@
 <h2>Last Week's Accomplishments</h2>
 
 <blockquote>
-  <p>Last week, I looked for easy bugs to fix and made some quick fixes.
+  <p>Last week, I tried to fix my code to work with venue but I have been unsuccessful so far. 
 </blockquote>
 
 <h2>This Week's Plan</h2>
 
 <blockquote>
-  <p>This week I plan to start a new bug and possibly fix it. </p>
+  <p>This week I plan to finish the table and add it to venue. </p>
 </blockquote>
 
 <h2>Anything Blocking?</h2>
