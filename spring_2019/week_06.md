@@ -1,7 +1,7 @@
 <h2>Last Week's Accomplishments</h2>
 
 <blockquote>
-  <p>Last week, I tried to fix my code to work with venue but I have been unsuccessful so far. 
+  <p>Last week, I tried to fix my code to work with venue but I have been unsuccessful so far. I asked Varun for help and he suggested using Bootstrap to help fix this problem.
 </blockquote>
 
 <h2>This Week's Plan</h2>
