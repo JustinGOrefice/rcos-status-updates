@@ -1,7 +1,7 @@
 <h2>Last Week's Accomplishments</h2>
 
 <blockquote>
-  <p>Last week, I tried to add my fix to github, but I realized that my code is incompatable with what has already been written, so I need to fix it to move on. 
+  <p>Last week, I tried to add my fix to github, but I realized that my code is incompatable with what has already been written, so I need to fix it to move on. My code was written for html tables, but needs to be updated to work with bootstrap formatting. </p>
 </blockquote>
 
 <h2>This Week's Plan</h2>
