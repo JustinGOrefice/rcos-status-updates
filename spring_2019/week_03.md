@@ -1,7 +1,7 @@
 <h2>Last Week's Accomplishments</h2>
 
 <blockquote>
-  <p>Last week, I completed tutorial for both Express and MongoDB. The MongoDB tutorial covered the folowing topics:</p>
+  <p>Last week, I completed tutorial for both Express and MongoDB. The MongoDB tutorial covered the following topics:</p>
 
 <ul>
 <li>Home </li>
